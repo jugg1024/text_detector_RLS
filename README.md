@@ -12,14 +12,12 @@ this program show a demo of text detection using the Algorithm in
 
 ####2.Needed Materials (important): <br>
 (1)Models <br>
-first download trained models from  : [models](https://github.com/jugg1024/text_detector_RLS "github") <br>
-there are five files in the zip file. <br>
+Models are on :  `3rd_party_tools\` <br>
 `broad_pca_data_Dec_06`             `pca_data of broad type` <br>
 `narrow_pca_data_Dec_06`            `pca_data of narrow type` <br>
 `broad_svmStruct_Dec_06`            `broad SVM` <br>
 `narrow_svmStruct_Dec_06`           `narrow SVM` <br>
 `detnet_layers`                     `cnn model` <br>
-put them on :  `3rd_party_tools\` <br>
  
 
 (2) Matlab platform is needed. the code tests on `Matlab 2014b`. <br>
